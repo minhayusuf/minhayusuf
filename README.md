@@ -31,9 +31,8 @@
 2. **HR Analytics Dashboard 📊**
    - Developed an interactive dashboard to analyze HR performance, recruitment data, and workforce planning insights using Power BI.
 
-3. **Statistical Tutoring 📚**
-   - Over **4 years of experience** simplifying complex statistical concepts and boosting student confidence in data handling.
-
+3. **Bitcoin Price prediction using machine learning.**
+   - Developed a machine learning model that can predict price of bitcoin. Used machine learning algorithms LSTM and XGBoost.
 ---
 
 ## 🚀 **What I’m Currently Up To:**
